@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Lighthouse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lighthouse/lighthouse-python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pantaloons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SevenTechAssignments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SevenTechAssignments/SevenTechAssignments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flipkart/new" vcs="Git" />
+  </component>
+</project>

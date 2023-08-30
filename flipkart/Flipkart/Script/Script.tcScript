@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="Unit1" key="{184281F3-6AC2-4672-A18F-63581EBBD5F6}" path="Unit1.py" />
+		<child name="Unit2" key="{6F1EF0C5-6529-4DD6-8FCE-D7132D38A657}" path="Unit2.py" />
+	</children>
+</Root>
